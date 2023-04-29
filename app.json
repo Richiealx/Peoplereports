@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Peoplereports",
+    "slug": "Peoplereports",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7c1ba5f9-7d97-43fc-8355-60cf624ace84"
+      }
+    },
+    "android": {
+      "package": "com.imejuart.Peoplereports"
+    },
+    "ios": {
+      "bundleIdentifier": "com.imejuart.Peoplereports"
+    }
+  },
+  "name": "Peoplereports"
+}
